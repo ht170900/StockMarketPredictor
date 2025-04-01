@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  StockMarketPredictor.cpp
+D:\cpp\StockMarketPredictor\StockMarketPredictor\StockMarketPredictor.cpp(79,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\cpp\StockMarketPredictor\StockMarketPredictor\StockMarketPredictor.cpp(120,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  StockMarketPredictorDlg.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'python313_d.lib'

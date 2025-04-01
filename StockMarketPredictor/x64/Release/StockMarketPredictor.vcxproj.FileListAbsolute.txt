@@ -1,0 +1,1 @@
+D:\cpp\StockMarketPredictor\StockMarketPredictor\x64\Release\StockMarketPredictor.vcxproj.CopyComplete

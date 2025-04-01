@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  StockMarketPredictor.cpp
+  StockMarketPredictorDlg.cpp
+StockMarketPredictor.obj : error LNK2001: unresolved external symbol __imp__curl_easy_init
+StockMarketPredictor.obj : error LNK2001: unresolved external symbol __imp__curl_easy_setopt
+StockMarketPredictor.obj : error LNK2001: unresolved external symbol __imp__curl_easy_perform
+StockMarketPredictor.obj : error LNK2001: unresolved external symbol __imp__curl_easy_strerror
+StockMarketPredictor.obj : error LNK2001: unresolved external symbol __imp__curl_easy_cleanup
+StockMarketPredictor.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall boost::iostreams::file_descriptor_sink::file_descriptor_sink(int,enum boost::iostreams::file_descriptor_flags)" (__imp_??0file_descriptor_sink@iostreams@boost@@QAE@HW4file_descriptor_flags@12@@Z)
+StockMarketPredictor.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall boost::iostreams::file_descriptor_sink::file_descriptor_sink(class boost::iostreams::file_descriptor_sink const &)" (__imp_??0file_descriptor_sink@iostreams@boost@@QAE@ABV012@@Z)
+StockMarketPredictor.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __int64 __thiscall boost::iostreams::file_descriptor::write(char const *,__int64)" (__imp_?write@file_descriptor@iostreams@boost@@QAE_JPBD_J@Z)
+StockMarketPredictor.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall boost::iostreams::file_descriptor::close(void)" (__imp_?close@file_descriptor@iostreams@boost@@QAEXXZ)
+StockMarketPredictor.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::fpos<struct _Mbstatet> __thiscall boost::iostreams::file_descriptor::seek(__int64,int)" (__imp_?seek@file_descriptor@iostreams@boost@@QAE?AV?$fpos@U_Mbstatet@@@std@@_JH@Z)
+StockMarketPredictor.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall boost::iostreams::file_descriptor_sink::~file_descriptor_sink(void)" (__imp_??1file_descriptor_sink@iostreams@boost@@QAE@XZ)
+D:\cpp\StockMarketPredictor\Release\StockMarketPredictor.exe : fatal error LNK1120: 11 unresolved externals
